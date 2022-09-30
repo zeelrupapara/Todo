@@ -1,10 +1,11 @@
-# TODO 
+# Todo
 
+### <b>Info</b>: about project 
 
-# Informaton about project 
 #### Technology:
-- <b>Backend</b>: NodeJS 
-- <span> </span> <b>FrameWork</b>: <em>ExpressJS</em>
+- <b>Backend</b>: <em>NodeJS</em> 
+- <b>FrameWork</b>: <em>ExpressJS</em>
+- <b>Pages</b>: <em>EJS</em>
 
 <hr />
 
