@@ -1,9 +1,13 @@
-# ToDoList-web-app-
-this is my first successful web app......
+# TODO 
 
 
-#informaton about project 
--this is a normal level web application 
--in this project work with html,css,js,nodejs,express etc.
- this is working with localhost : 3000
- this project in "localhost:3000/" and "/work" both localserver is working properly.that's it for level 1 
+# Informaton about project 
+#### Technology:
+- <b>Backend</b>: NodeJS 
+- <span> </span> <b>FrameWork</b>: <em>ExpressJS</em>
+
+##### Guide: Getting Stratrd
+```
+Start Server in local
+# node index.js
+```
